@@ -1,0 +1,3 @@
+My linked list progeam aka lab 8 was not done on time so i used the code of someone whos taken the class already.
+Student github: https://github.com/SpreadTheJello/CSE030
+i also used some of his lab 9 for the linkedlist_char since that was a part of lab 9 that i only half did
