@@ -1,0 +1,64 @@
+Michael Salas
+
+I have been absent the past few weeks so i was unable to get a gorup for this lab
+it is my fault and but this will not be a problem in the future, here is the work done
+by myself still for any points i could get
+
+TPS activity 1:
+
+Linux tutorials: 
+https://www.youtube.com/watch?v=cBokz0LTizk
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+
+TPS activity 2:
+
+1. 
+    in my case i use ubuntu to open a terminal for linux
+    you can open more than one terminal at a time and this is useful to keep track of
+    multiple projects for different sections of a project at the same time
+2. 
+    you can check by using th els command to show the current directory content
+3.
+    in my case i have to use this command since ubuntu is a little wierd
+    cd /mnt/c/Users/ysala/Desktop 
+4.
+    and i made the cse31 folder with "mkdir CSE31"
+
+TPS activity 3:
+1.
+    source used: https://www.youtube.com/watch?v=eGhZ828cnqU
+2.
+    
+3.
+    gcc is used to compile a program, theres more to it but thats the command
+4.
+    in most cases no errors with show up and a new file should be created that you can execute
+5.
+    your source file should compile normally
+6. 
+    your source file will once again file normally but with a debugger feature telling you 
+    whats wrong witht he code before hand
+7.
+    gcc main  -o cselab1
+8.
+     ittl make an executable with the same name as the source
+9.
+    ./(exectuable name)
+
+TPS activity 4:
+
+main{
+    needed variable such as the trackings of evens and odds
+
+    while(as long as user input isnt 0){
+        check what integer user is inputting to generate the correct response
+        ex. 1st should be said instead of 1nd or 1th
+
+        check user input and determin if the sum of the nubers inputted is even or odds
+        then add the orgional number into a even or odd "sum" and keep track of how many evens
+        and odds there are 
+    }
+    check if theres any numbers at all
+    if there are ouput an average and response
+}

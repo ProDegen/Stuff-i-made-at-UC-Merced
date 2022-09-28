@@ -1,0 +1,8 @@
+
+    mutiple if's(check what place the user is in when typing interger){
+        (enter num with proper wording)
+        (record num) 
+        (check if num is even or odd and add sum to another int)
+        (increase numbers of evens or odd) 
+    }
+find the averages and spit them out

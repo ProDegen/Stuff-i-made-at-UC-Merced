@@ -1,0 +1,36 @@
+Michael Salas
+Cheska Friend
+Arora Spivey
+Louis Ornelas
+
+TPS Activity 1:
+1
+    Stack, Heap, Static, maybe ram?
+2
+    A
+        3 variables
+    b
+        2 are pointers
+    C
+        they stack 
+    d
+        ptr goes into the heap
+3
+    image on catcourse
+4
+    image on catcourse
+
+TPS Activity 2:
+1
+    the program is creating a struct, allocating memory for it, and then
+    assigns values to it
+2
+	printf("%p\n",&head);
+    printf("%p\n",head);
+
+    printf("%p\n",&head->iValue);
+    printf("%p\n",&head->fValue);
+    printf("%p\n",&head->next);
+3
+    i can see that they still adopt the same memory position whether 
+    or not theyre in the strut or not
