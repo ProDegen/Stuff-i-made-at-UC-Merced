@@ -1,1 +1,1 @@
-Hey this is my github, this is far from all of my stuff since I guess i started uploading them to here pretty late, im sure i have the files laying around somewhere i just gotta find it
+Hey this is my github, this is far from all of my stuff since I guess i started uploading them to here pretty late, this one is mainly my school stuff, theres 3 classes worth of code missing here, 1 of which there isnt much digital copies of so i didnt include it, and the other 2 were such basic thing i didnt feel the need to back them up here, thought if i ever find the time or need i could 
